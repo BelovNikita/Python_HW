@@ -1,7 +1,8 @@
 from datetime import datetime as dt
 
 log_file = open('log_file.txt', 'a')
-operation_time = dt.now().strftime('%H:%M')
+today = dt.today()
+operation_time = today.strftime("%Y-%m-%d-%H:%M:%S")
 
 
 def logwrite(note, message_text):

@@ -24,3 +24,7 @@
 13:11 Result of calculations is: (67.615+55.385j)
 13:16 User input: 1.12,1 + 23.2,12
 13:16 Result of calculations is: (24.32+13j)
+2023-02-01-13.25.37 User input: 1 + 1
+2023-02-01-13.25.37 Result of calculations is: 2.0
+2023-02-01-13:26:23 User input: 2 + 2
+2023-02-01-13:26:23 Result of calculations is: 4.0
